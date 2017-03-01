@@ -1,0 +1,13 @@
+commons-codec-1.5.jar
+couchbase-client-1.1.4.jar
+gson-2.2.2.jar
+httpcore-4.1.1.jar
+httpcore-nio-4.1.1.jar
+interact_externalcallout.jar
+interact_learning.jar
+jettison-1.1.jar
+log4j-1.2.8.jar
+netty-3.5.5.Final.jar
+renjin0.7.0-RC8.jar
+renjin-script-engine-0.8.2183-jar-with-dependencies.jar
+spymemcached-2.8.12.jar
