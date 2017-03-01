@@ -1,0 +1,9 @@
+{
+"paramNames" : ["AGE","USER_STATUS","CREDIT_SERIES"],
+"paramTypes" : ["double","String","double[]",],
+"siftParamMap" : ["DAYS_SINCE_LAST_CREDIT_LifeTime-L","DTAC_USER_STATUS_LifeTime-L","CREDIT_VALUE_SERIES_LifeTime-L"],
+"returnValues" : ["user_status","m_segment_type"],
+"returnTypes" : ["String","String"],
+"profileName" : ["user_status","segment_type"],
+"RscriptPath" : "WoW.R"
+}
